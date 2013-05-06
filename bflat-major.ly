@@ -1,12 +1,12 @@
-upper = \relative c'' {
-  \key c \major
-  c cis ces c
+upper = \relative bes' {
+  \key bes \major
+  d dis des d
 }
 
-lower = \relative c {
+lower = \relative bes, {
   \clef bass
-  \key c \major
-  d dis des d
+  \key bes \major
+  c cis ces c
 }
 
 \score {

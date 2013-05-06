@@ -1,11 +1,11 @@
-upper = \relative c'' {
-  \key c \major
-  c cis ces c
+upper = \relative a' {
+  \key a \major
+  a ais aes a
 }
 
-lower = \relative c {
+lower = \relative a, {
   \clef bass
-  \key c \major
+  \key a \major
   d dis des d
 }
 
